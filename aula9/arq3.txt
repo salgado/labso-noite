@@ -1,0 +1,3 @@
+esta linha
+tem a string
+linux
